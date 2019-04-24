@@ -1,15 +1,125 @@
 {
-    "children": [
-       {
-        "children": [],
-        "name": "activities"
+   "children":[
+      {
+         "children":[
+           {
+               "children":[
 
+
+               ],
+               "name":"rock-climbing"
+            },
+                 {
+               "children":[
+
+
+               ],
+               "name":"ping-pong"
+            },
+            {
+               "children":[
+
+
+               ],
+               "name":"sailing"
+            },
+            {
+               "children":[
+
+
+               ],
+               "name":"privacy"
+            },
+
+
+           {
+             "children":[
+
+
+             ],
+             "name":"beer"
+          }
+
+         ],
+         "name":"activities"
       },
       {
-        "children": [],
-        "name": "software"
+         "children":[
+            {
+               "children":[
+                  {
+                     "children":[
 
+                     ],
+                     "name":"python"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"sql"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"bash"
+                  }
+               ],
+               "name":"languages"
+            },
+
+            {
+               "children":[
+                   {
+                     "children":[
+
+                     ],
+                     "name":"airflow"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"kubernetes"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"s3"
+                  },
+                   {
+                     "children":[
+
+                     ],
+                     "name":"postgres"
+                  },
+                  {
+                     "children":[
+
+                     ],
+                     "name":"jenkins"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"pycharm"
+                  },
+                 {
+                     "children":[
+
+                     ],
+                     "name":"jira"
+                  }
+
+               ],
+               "name":"tools"
+            }
+         ],
+         "name":"software"
       }
-    ],
-    "name": "me"
+   ],
+   "name":"ME"
 }
