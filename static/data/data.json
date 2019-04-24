@@ -1,15 +1,6 @@
 {
     "children": [
-       {
-        "children": [],
-        "name": "activities"
 
-      },
-      {
-        "children": [],
-        "name": "software"
-
-      }
     ],
     "name": "me"
 }
