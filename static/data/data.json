@@ -87,6 +87,12 @@
                      "children":[
 
                      ],
+                     "name":"docker"
+                  },
+                 {
+                     "children":[
+
+                     ],
                      "name":"s3"
                   },
                    {
